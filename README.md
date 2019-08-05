@@ -1,2 +1,2 @@
 # DataScienceWorkshop
-Atlanta Data Science Workshop
+Atlanta Data Science Workshop 2019
